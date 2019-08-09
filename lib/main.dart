@@ -21,8 +21,8 @@ class _MyHomePageState extends State<MyHomePage> {
   String currentlang="tr";
   String ad="Mehmet";
   String soyad="Tek";
-  var trad=["Mehmet","Kemal","Ahmet","Mert","Deniz","Berkay","Onur","Doğan","Ayşe","Fatma","Begüm","Dilara","Tuğçe","Demet","Sevgi"];
-  var trsoyad=["Tek","Acar","Adıgüzel","Demir","Deniz","Ak","Akpınar","Akıllı"];
+  var trad=["Ece","Kasım","Mehmet","Kemal","Ahmet","Mert","Deniz","Berkay","Onur","Doğan","Ayşe","Fatma","Begüm","Dilara","Tuğçe","Demet","Sevgi"];
+  var trsoyad=["Çelik","Kaplan","Tek","Acar","Adıgüzel","Demir","Deniz","Ak","Akpınar","Akıllı"];
     var ingad=["John","Tom","Kevin","Creed","Dwight","Jim","Angela","Oscar","Pam","Toby","Ryan","Kelly","Meredith","Holly","Karen","Stanley"];
   var ingsoyad=["Krasinksi","Beesly","Schrute","Halpert","Scoot","Bernard","Malone","Howard","Kappor","Hudson","Palmer","Flax","Martin"];
 static var rnd=new Random();
